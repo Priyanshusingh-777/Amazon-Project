@@ -1,2 +1,2 @@
 # Amazon-Project
-Python based project
+Python based project with python library.
