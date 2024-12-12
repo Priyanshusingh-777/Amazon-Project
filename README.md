@@ -1,2 +1,2 @@
 # Amazon-Project
-Python based project with the help of python library.
+Python based project on amazon_sales_india dataset 2023 with the help of Python library - Numpy, Pandas, Matplotlib, Seaborn
